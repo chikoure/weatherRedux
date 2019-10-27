@@ -1,0 +1,6 @@
+module.exports = {
+  //weather
+  WHEATER_SUCCESS: 'WHEATER_SUCCESS',
+  WHEATER_LOAD: 'WHEATER_LOAD',
+  WHEATER_FAIL: 'WHEATER_FAIL'
+};
